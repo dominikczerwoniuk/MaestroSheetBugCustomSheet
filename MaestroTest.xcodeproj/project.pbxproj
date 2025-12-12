@@ -13,6 +13,7 @@
 		188381992C73352A00F067D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188381982C73352A00F067D2 /* Preview Assets.xcassets */; };
 		188381A02C73381100F067D2 /* FullScreenCoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1883819F2C73381100F067D2 /* FullScreenCoverView.swift */; };
 		188381A22C7339B700F067D2 /* SheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188381A12C7339B700F067D2 /* SheetView.swift */; };
+		B456E59C2EEB048A00BCC645 /* MockCustomActionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B456E59B2EEB048A00BCC645 /* MockCustomActionType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		188381982C73352A00F067D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1883819F2C73381100F067D2 /* FullScreenCoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverView.swift; sourceTree = "<group>"; };
 		188381A12C7339B700F067D2 /* SheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetView.swift; sourceTree = "<group>"; };
+		B456E59B2EEB048A00BCC645 /* MockCustomActionType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockCustomActionType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1883818F2C73352800F067D2 /* MaestroTest */ = {
 			isa = PBXGroup;
 			children = (
+				B456E59B2EEB048A00BCC645 /* MockCustomActionType.swift */,
 				188381902C73352800F067D2 /* MaestroTestApp.swift */,
 				188381922C73352800F067D2 /* ContentView.swift */,
 				1883819F2C73381100F067D2 /* FullScreenCoverView.swift */,
@@ -149,6 +152,7 @@
 				188381932C73352800F067D2 /* ContentView.swift in Sources */,
 				188381A22C7339B700F067D2 /* SheetView.swift in Sources */,
 				188381912C73352800F067D2 /* MaestroTestApp.swift in Sources */,
+				B456E59C2EEB048A00BCC645 /* MockCustomActionType.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
